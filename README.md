@@ -1,2 +1,2 @@
 # sprint3-my-blog-app
-Practical work for yp - spint 3.
+Practical work for yp - sprint 3.
